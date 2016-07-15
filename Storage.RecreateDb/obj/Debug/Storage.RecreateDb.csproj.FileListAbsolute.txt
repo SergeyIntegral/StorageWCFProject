@@ -1,0 +1,97 @@
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.RecreateDb\bin\Debug\Storage.RecreateDb.exe.config
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.RecreateDb\bin\Debug\Storage.RecreateDb.exe
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.RecreateDb\bin\Debug\Storage.RecreateDb.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.RecreateDb\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.RecreateDb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.RecreateDb\bin\Debug\Mita.DataAccess.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.RecreateDb\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.RecreateDb\bin\Debug\Storage.DataAccess.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.RecreateDb\bin\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.RecreateDb\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.RecreateDb\bin\Debug\Mita.DataAccess.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.RecreateDb\bin\Debug\Storage.DataAccess.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.RecreateDb\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.RecreateDb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.RecreateDb\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.RecreateDb\bin\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.RecreateDb\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.RecreateDb\obj\Debug\Storage.RecreateDb.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.RecreateDb\obj\Debug\Storage.RecreateDb.exe
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.RecreateDb\obj\Debug\Storage.RecreateDb.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.RecreateDb\bin\Debug\Storage.RecreateDb.exe.config
+C:\Users\Сергей\Desktop\Work\Склад\Storage.RecreateDb\bin\Debug\Storage.RecreateDb.exe
+C:\Users\Сергей\Desktop\Work\Склад\Storage.RecreateDb\bin\Debug\Storage.RecreateDb.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.RecreateDb\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.RecreateDb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.RecreateDb\bin\Debug\Mita.DataAccess.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.RecreateDb\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.RecreateDb\bin\Debug\Storage.DataAccess.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.RecreateDb\bin\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.RecreateDb\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.RecreateDb\bin\Debug\Mita.DataAccess.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.RecreateDb\bin\Debug\Storage.DataAccess.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.RecreateDb\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\Work\Склад\Storage.RecreateDb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сергей\Desktop\Work\Склад\Storage.RecreateDb\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Сергей\Desktop\Work\Склад\Storage.RecreateDb\bin\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.RecreateDb\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.RecreateDb\obj\Debug\Storage.RecreateDb.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Work\Склад\Storage.RecreateDb\obj\Debug\Storage.RecreateDb.exe
+C:\Users\Сергей\Desktop\Work\Склад\Storage.RecreateDb\obj\Debug\Storage.RecreateDb.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Storage.RecreateDb.exe.config
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Storage.RecreateDb.exe
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Storage.RecreateDb.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\EntityFramework.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Storage.DataAccess.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Storage.DataAccess.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\EntityFramework.xml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.RecreateDb\obj\Debug\Storage.RecreateDb.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.RecreateDb\obj\Debug\Storage.RecreateDb.exe
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.RecreateDb\obj\Debug\Storage.RecreateDb.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Storage.RecreateDb.exe.config
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Storage.RecreateDb.exe
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Storage.RecreateDb.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\EntityFramework.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Storage.DataAccess.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Storage.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\EntityFramework.xml
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.RecreateDb\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.RecreateDb\obj\Debug\Storage.RecreateDb.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.RecreateDb\obj\Debug\Storage.RecreateDb.exe
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.RecreateDb\obj\Debug\Storage.RecreateDb.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.RecreateDb\obj\Debug\Storage.RecreateDb.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.RecreateDb\obj\Debug\Storage.RecreateDb.exe
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.RecreateDb\obj\Debug\Storage.RecreateDb.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.RecreateDb\bin\Debug\Storage.RecreateDb.exe.config
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.RecreateDb\bin\Debug\Storage.RecreateDb.exe
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.RecreateDb\bin\Debug\Storage.RecreateDb.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.RecreateDb\bin\Debug\EntityFramework.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.RecreateDb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.RecreateDb\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.RecreateDb\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.RecreateDb\bin\Debug\Storage.DataAccess.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.RecreateDb\bin\Debug\Storage.Model.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.RecreateDb\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.RecreateDb\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.RecreateDb\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.RecreateDb\bin\Debug\Storage.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.RecreateDb\bin\Debug\Storage.Model.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.RecreateDb\bin\Debug\EntityFramework.xml
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.RecreateDb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.RecreateDb\bin\Debug\Mita.DataAccess.EF.pdb

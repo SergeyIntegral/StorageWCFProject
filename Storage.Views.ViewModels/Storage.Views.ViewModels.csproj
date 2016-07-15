@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{50CCF964-9A93-4769-A050-3DCB7281C65E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Storage.Views.ViewModels</RootNamespace>
+    <AssemblyName>Storage.Views.ViewModels</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Practices.ServiceLocation">
+      <HintPath>..\..\букстор\pr16-BookStore\BookStore.PayDesk.ViewModels\bin\Debug\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChildViewModel.cs" />
+    <Compile Include="CreateAndDeleteViewModel.cs" />
+    <Compile Include="RedactionMaterialViewModel.cs" />
+    <Compile Include="MainViewModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Mita.Core\Mita.Core.csproj">
+      <Project>{87fa3037-fa11-43df-b91b-8520331d5d35}</Project>
+      <Name>Mita.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Mita.DataAccess\Mita.DataAccess.csproj">
+      <Project>{b86cc962-b1b9-4763-a348-db88ef289853}</Project>
+      <Name>Mita.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Mita.Mvvm\Mita.Mvvm.csproj">
+      <Project>{213d4459-1faf-46c7-961e-f0ae9bf8513c}</Project>
+      <Name>Mita.Mvvm</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Storage.BusinessLogic\Storage.BusinessLogic.csproj">
+      <Project>{f276abfe-2de7-434f-9b9d-70b6abb3b85a}</Project>
+      <Name>Storage.BusinessLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Storage.DataAccess\Storage.DataAccess.csproj">
+      <Project>{91d3b352-6884-4b02-bd53-cbf1bb33699d}</Project>
+      <Name>Storage.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Storage.Model\Storage.Model.csproj">
+      <Project>{3b09b6e8-da9c-45b5-8b2e-70ac1d9b77ab}</Project>
+      <Name>Storage.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

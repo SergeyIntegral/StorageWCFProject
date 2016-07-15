@@ -1,0 +1,106 @@
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.dll.config
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.dll
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.pdb
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.DataAccess.EF\bin\Debug\EntityFramework.dll
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.DataAccess.EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.dll
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.DataAccess.EF\bin\Debug\Mita.Core.dll
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.pdb
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.DataAccess.EF\bin\Debug\EntityFramework.xml
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.DataAccess.EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.DataAccess.EF\bin\Debug\Mita.Core.pdb
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.csprojResolveAssemblyReference.cache
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.dll
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.pdb
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.dll.config
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.DataAccess.EF\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.DataAccess.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.dll
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.DataAccess.EF\bin\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.pdb
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.DataAccess.EF\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.DataAccess.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.DataAccess.EF\bin\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.dll
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.dll.config
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.DataAccess.EF\bin\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.DataAccess.EF\bin\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.dll.config
+C:\Users\Сергей\Desktop\Work\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\Сергей\Desktop\Work\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\Work\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сергей\Desktop\Work\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.dll
+C:\Users\Сергей\Desktop\Work\Склад\Mita.DataAccess.EF\bin\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\Work\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\Work\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сергей\Desktop\Work\Склад\Mita.DataAccess.EF\bin\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Work\Склад\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.dll
+C:\Users\Сергей\Desktop\Work\Склад\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.dll.config
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.DataAccess.EF\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.xml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.DataAccess.EF\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.dll.config
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.xml
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.dll.config
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.xml
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.dll.config
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Mita.DataAccess.EF\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.xml
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Mita.DataAccess.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Mita.DataAccess.EF\obj\Debug\Mita.DataAccess.EF.pdb

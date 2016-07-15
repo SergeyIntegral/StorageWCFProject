@@ -1,0 +1,369 @@
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Storage.Views.exe.config
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Storage.Views.exe
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Storage.Views.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Microsoft.Mef.CommonServiceLocator.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Mita.DataAccess.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Mita.Mvvm.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Storage.DataAccess.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\System.Composition.Convention.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\System.Composition.Hosting.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\System.Composition.Runtime.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\System.Composition.TypedParts.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\System.Composition.AttributedModel.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Mita.DataAccess.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Mita.Mvvm.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Storage.DataAccess.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\System.Composition.Convention.xml
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\System.Composition.Hosting.xml
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\System.Composition.Runtime.xml
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\System.Composition.TypedParts.xml
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\System.Composition.AttributedModel.xml
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\obj\Debug\Storage.Views.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\obj\Debug\App.g.cs
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\obj\Debug\Storage.Views_MarkupCompile.cache
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\obj\Debug\Storage.Views.g.resources
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\obj\Debug\Storage.Views.Properties.Resources.resources
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\obj\Debug\Storage.Views.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\obj\Debug\Storage.Views.exe
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\obj\Debug\Storage.Views.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\obj\Debug\MainView.baml
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\obj\Debug\MainView.g.cs
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Storage.Views.ViewModels.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\bin\Debug\Storage.Views.ViewModels.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\obj\Debug\CreateMaterialView.baml
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\obj\Debug\CreateMaterialView.g.cs
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views\obj\Debug\Storage.Views_MarkupCompile.lref
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Storage.Views.exe.config
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\obj\Debug\Storage.Views.exe
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\obj\Debug\Storage.Views.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Storage.Views.exe
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Storage.Views.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Microsoft.Mef.CommonServiceLocator.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Mita.DataAccess.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Mita.Mvvm.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Storage.DataAccess.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Storage.Views.ViewModels.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\System.Composition.Convention.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\System.Composition.Hosting.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\System.Composition.Runtime.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\System.Composition.TypedParts.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\System.Composition.AttributedModel.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Mita.DataAccess.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Mita.Mvvm.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Storage.DataAccess.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Storage.Views.ViewModels.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\System.Composition.Convention.xml
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\System.Composition.Hosting.xml
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\System.Composition.Runtime.xml
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\System.Composition.TypedParts.xml
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\System.Composition.AttributedModel.xml
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\obj\Debug\Storage.Views.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\obj\Debug\MainView.baml
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\obj\Debug\CreateOrderView.g.cs
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\obj\Debug\MainView.g.cs
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\obj\Debug\CreateMaterialView.g.cs
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\obj\Debug\App.g.cs
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\obj\Debug\Storage.Views_MarkupCompile.cache
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\obj\Debug\Storage.Views_MarkupCompile.lref
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\obj\Debug\CreateOrderView.baml
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\obj\Debug\CreateMaterialView.baml
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\obj\Debug\Storage.Views.g.resources
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\obj\Debug\Storage.Views.Properties.Resources.resources
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views\obj\Debug\Storage.Views.csproj.GenerateResource.Cache
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Storage.Views.exe.config
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\obj\Debug\Storage.Views.exe
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\obj\Debug\Storage.Views.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Storage.Views.exe
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Storage.Views.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\EntityFramework.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Mita.Mvvm.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Storage.DataAccess.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Storage.Views.ViewModels.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\System.Composition.AttributedModel.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Mita.Mvvm.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Storage.DataAccess.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Storage.Views.ViewModels.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\EntityFramework.xml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\System.Composition.Convention.xml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\System.Composition.Hosting.xml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\System.Composition.Runtime.xml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\System.Composition.TypedParts.xml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\System.Composition.AttributedModel.xml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\obj\Debug\Storage.Views.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\obj\Debug\MainView.baml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\obj\Debug\CreateOrderView.g.cs
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\obj\Debug\MainView.g.cs
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\obj\Debug\CreateMaterialView.g.cs
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\obj\Debug\App.g.cs
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\obj\Debug\Storage.Views_MarkupCompile.cache
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\obj\Debug\Storage.Views_MarkupCompile.lref
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\obj\Debug\CreateOrderView.baml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\obj\Debug\CreateMaterialView.baml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\obj\Debug\Storage.Views.g.resources
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\obj\Debug\Storage.Views.Properties.Resources.resources
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\obj\Debug\Storage.Views.csproj.GenerateResource.Cache
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\obj\Debug\Page1.g.cs
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views\obj\Debug\Page1.baml
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\obj\Debug\Storage.Views.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\obj\Debug\MainView.baml
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\obj\Debug\MainView.g.cs
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\obj\Debug\CreateMaterialView.g.cs
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\obj\Debug\App.g.cs
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\obj\Debug\Storage.Views_MarkupCompile.cache
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\obj\Debug\Storage.Views_MarkupCompile.lref
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Storage.Views.exe.config
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Storage.Views.exe
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Storage.Views.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\EntityFramework.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Microsoft.Mef.CommonServiceLocator.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Mita.Mvvm.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Storage.DataAccess.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Storage.Views.ViewModels.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Mita.Mvvm.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Storage.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Storage.Views.ViewModels.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\EntityFramework.xml
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\obj\Debug\CreateMaterialView.baml
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\obj\Debug\Storage.Views.g.resources
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\obj\Debug\Storage.Views.Properties.Resources.resources
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\obj\Debug\Storage.Views.csproj.GenerateResource.Cache
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\obj\Debug\Storage.Views.exe
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\obj\Debug\Storage.Views.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\obj\Debug\CreateAndDeleteView.g.cs
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views\obj\Debug\CreateAndDeleteView.baml
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.Views.exe.config
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\obj\Debug\Storage.Views.exe
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\obj\Debug\Storage.Views.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\obj\Debug\Storage.Views.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\obj\Debug\CreateAndDeleteView.g.cs
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\obj\Debug\MainView.g.cs
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\obj\Debug\App.g.cs
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\obj\Debug\Storage.Views_MarkupCompile.cache
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\obj\Debug\Storage.Views_MarkupCompile.lref
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.Views.exe
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.Views.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\EntityFramework.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Microsoft.Mef.CommonServiceLocator.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Mita.Mvvm.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.BusinessLogic.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.DataAccess.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.Model.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.Views.ViewModels.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Mita.Mvvm.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.BusinessLogic.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.Model.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.Views.ViewModels.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\EntityFramework.xml
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\obj\Debug\CreateAndDeleteView.baml
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\obj\Debug\MainView.baml
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\obj\Debug\Storage.Views.g.resources
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\obj\Debug\Storage.Views.Properties.Resources.resources
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\obj\Debug\Storage.Views.csproj.GenerateResource.Cache
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.BusinessLogic.WCF.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.BusinessLogic.WCF.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\obj\Debug\RedactionMaterialView.g.cs
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views\obj\Debug\RedactionMaterialView.baml
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.Views.exe.config
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\obj\Debug\Storage.Views.exe
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\obj\Debug\Storage.Views.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.Views.exe
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.Views.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\EntityFramework.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Microsoft.Mef.CommonServiceLocator.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Mita.Mvvm.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.BusinessLogic.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.DataAccess.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.Model.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.Views.ViewModels.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Mita.Mvvm.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.BusinessLogic.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.DataAccess.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.Model.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.Views.ViewModels.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\EntityFramework.xml
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\obj\Debug\Storage.Views.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\obj\Debug\CreateAndDeleteView.g.cs
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\obj\Debug\MainView.g.cs
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\obj\Debug\RedactionMaterialView.g.cs
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\obj\Debug\App.g.cs
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\obj\Debug\Storage.Views_MarkupCompile.cache
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\obj\Debug\Storage.Views_MarkupCompile.lref
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\obj\Debug\CreateAndDeleteView.baml
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\obj\Debug\MainView.baml
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\obj\Debug\RedactionMaterialView.baml
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\obj\Debug\Storage.Views.g.resources
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\obj\Debug\Storage.Views.Properties.Resources.resources
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\obj\Debug\Storage.Views.csproj.GenerateResource.Cache
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.BusinessLogic.WCF.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views\bin\Debug\Storage.BusinessLogic.WCF.pdb
+C:\Users\Integral\Downloads\Склад\Склад\Storage.Views\bin\Debug\Storage.Views.exe.config
+C:\Users\Integral\Downloads\Склад\Склад\Storage.Views\obj\Debug\Storage.Views.exe
+C:\Users\Integral\Downloads\Склад\Склад\Storage.Views\obj\Debug\Storage.Views.pdb

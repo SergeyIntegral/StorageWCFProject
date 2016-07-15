@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3D0809ED-6C43-41AD-B394-8E436BC77823}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Storage.BusinessLogic.WCF</RootNamespace>
+    <AssemblyName>Storage.BusinessLogic.WCF</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ProductCreateViewLogic.cs" />
+    <Compile Include="ProductCreateWcfService\ProductCreateWcfServiceClient.cs" />
+    <Compile Include="ProductMainViewLogic.cs" />
+    <Compile Include="ProductMainWcfService\ProductMainWcfServiceClient.cs" />
+    <Compile Include="ProductRedactionViewLogic.cs" />
+    <Compile Include="ProductRedactionWcfService\ProductRedactionWcfServiceClient.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service References\ProductCreateWcfService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\ProductMainWcfService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\ProductRedactionWcfService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Mita.Core\Mita.Core.csproj">
+      <Project>{87fa3037-fa11-43df-b91b-8520331d5d35}</Project>
+      <Name>Mita.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Mita.DataAccess\Mita.DataAccess.csproj">
+      <Project>{B86CC962-B1B9-4763-A348-DB88EF289853}</Project>
+      <Name>Mita.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Storage.BusinessLogic\Storage.BusinessLogic.csproj">
+      <Project>{f276abfe-2de7-434f-9b9d-70b6abb3b85a}</Project>
+      <Name>Storage.BusinessLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Storage.Model\Storage.Model.csproj">
+      <Project>{3b09b6e8-da9c-45b5-8b2e-70ac1d9b77ab}</Project>
+      <Name>Storage.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\DataSources\Storage.Model.Product.datasource" />
+    <None Include="Properties\DataSources\Storage.Model.ProductCategory.datasource" />
+    <None Include="Properties\DataSources\Storage.Model.Shelf.datasource" />
+    <None Include="Properties\DataSources\Storage.Model.Trader.datasource" />
+    <None Include="Service References\ProductCreateWcfService\ProductCreateWcfService.wsdl" />
+    <None Include="Service References\ProductCreateWcfService\ProductCreateWcfService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ProductCreateWcfService\ProductCreateWcfService1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ProductCreateWcfService\ProductCreateWcfService2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ProductCreateWcfService\ProductCreateWcfService3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ProductMainWcfService\ProductMainWcfService.wsdl" />
+    <None Include="Service References\ProductMainWcfService\ProductMainWcfService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ProductMainWcfService\ProductMainWcfService1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ProductMainWcfService\ProductMainWcfService2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ProductMainWcfService\ProductMainWcfService3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ProductRedactionWcfService\ProductRedactionWcfService.wsdl" />
+    <None Include="Service References\ProductRedactionWcfService\ProductRedactionWcfService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ProductRedactionWcfService\ProductRedactionWcfService1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ProductRedactionWcfService\ProductRedactionWcfService2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ProductRedactionWcfService\ProductRedactionWcfService3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\ProductCreateWcfService\" />
+    <WCFMetadataStorage Include="Service References\ProductMainWcfService\" />
+    <WCFMetadataStorage Include="Service References\ProductRedactionWcfService\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ProductCreateWcfService\ProductCreateWcfService.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ProductCreateWcfService\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ProductCreateWcfService\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ProductCreateWcfService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ProductMainWcfService\ProductMainWcfService.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ProductMainWcfService\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ProductMainWcfService\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ProductMainWcfService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ProductRedactionWcfService\ProductRedactionWcfService.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ProductRedactionWcfService\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ProductRedactionWcfService\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ProductRedactionWcfService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,98 @@
+﻿<UserControl x:Class="Storage.Views.CreateAndDeleteView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+             xmlns:viewModels="clr-namespace:Storage.Views.ViewModels;assembly=Storage.Views.ViewModels"
+             xmlns:converters="clr-namespace:Storage.Views.converters"
+             xmlns:system="clr-namespace:System;assembly=mscorlib"
+             mc:Ignorable="d" Width="1024" Height="680" 
+             d:DataContext="{d:DesignInstance viewModels:CreateAndDeleteViewModel}">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+            <ColumnDefinition Width="313*"></ColumnDefinition>
+            <ColumnDefinition Width="586*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" MinHeight="34"/>
+            <RowDefinition Height="Auto" MinHeight="34" />
+            <RowDefinition Height="Auto" MinHeight="34"/>
+            <RowDefinition Height="Auto" MinHeight="34"/>
+            <RowDefinition Height="Auto" MinHeight="34" />
+            <RowDefinition Height="Auto" MinHeight="34"  />
+            <RowDefinition Height="Auto" MinHeight="34"  />
+            <RowDefinition Height="Auto" MinHeight="34"  />
+            <RowDefinition Height="Auto" MinHeight="34"  />
+            <RowDefinition Height="Auto" MinHeight="34"  />
+            <RowDefinition Height="Auto" MinHeight="34"  />
+            <RowDefinition Height="Auto" MinHeight="34"  />
+            <RowDefinition Height="Auto" MinHeight="34"  />
+            <RowDefinition Height="Auto" MinHeight="34"/>
+            <RowDefinition Height="Auto" MinHeight="34"/>
+            <RowDefinition Height="Auto" MinHeight="34"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="ПродуктНэйм" Margin="0,0,10,0" />
+        <TextBlock Grid.Row="1" Text="ПродуктНамбер" Margin="0,0,10,0" />
+        <TextBlock Grid.Row="2" Text="КаунтДэйта" Margin="0,0,10,0" />
+        <TextBlock Grid.Row="3" Text ="Инпут" Margin="0,0,10,0"/>
+        <TextBlock Grid.Row="4" Text="ИнпутДата" Margin="0,0,10,0" />
+        <TextBlock Grid.Row="5" Text="Солд" Margin="0,0,10,0" />
+        <TextBlock Grid.Row="6" Text="СолдДата" Margin="0,0,10,0" />
+        <TextBlock Grid.Row="7" Text ="Прайс" Margin="0,0,10,0"/>
+        <TextBlock Grid.Row="8" Text="Категория" Margin="0,0,10,0" />
+        <TextBlock Grid.Row="9" Text="НомерПолки" Margin="0,0,10,0" />
+        <TextBlock Grid.Row="10" Text ="ТрэйлерАдрес" Margin="0,0,10,0"/>
+        <TextBlock Grid.Row="11" Text="ТрэйдерНэйм" Margin="0,0,10,0"  />
+        <TextBlock Grid.Row="12" Text ="ТрэйдерПостИндекс " Margin="0,0,10,0"/>
+        <TextBlock Grid.Row="13" Text ="КатегориНамбер " Margin="0,0,10,0"/>
+
+        <TextBox Grid.Column="1" Grid.Row="0" 
+                       Text="{Binding Product.ProductName}" 
+                       Margin="0,0,150,9" />
+        <TextBox Grid.Column="1" Grid.Row="1" Text="{Binding Product.ProductNumber}" Margin="0,0,150,9" />
+        <DatePicker Grid.Column="1" Grid.Row="2" DisplayDate="{x:Static system:DateTime.Today}"  SelectedDate="{Binding Product.CountDate}" SelectedDateFormat="Long" Margin="0,0,150,9"/>
+        <!--xctk:DoubleUpDown Grid.Column="1" Grid.Row="3" Increment="100" Value="{Binding SelectedTenant.Debt}" /-->
+        <!--Button Grid.Column="1"
+                    Content="Save" Command="{Binding CreateMaterial}" Margin="179,-38,32,47"/-->
+
+        <Button Grid.Column="0" Grid.Row="14" Command="{Binding CreateMaterial}">Добавить</Button>
+        <TextBox Grid.Column="1" Grid.Row="3" 
+            	Text="{Binding Product.Input}" 
+            	Margin="0,0,150,9" />
+        <DatePicker Grid.Column="1" Grid.Row="4" 
+            	SelectedDate="{Binding Product.InputDate}" SelectedDateFormat="Long"
+            	Margin="0,0,150,9" />
+        <TextBox Grid.Column="1" Grid.Row="5" 
+            	Text="{Binding Product.Sold}" 
+            	Margin="0,0,150,9" />
+        <DatePicker Grid.Column="1" Grid.Row="6" 
+            	SelectedDate="{Binding Product.SoldDate}" SelectedDateFormat="Long"
+            	Margin="0,0,150,9" />
+        <TextBox Grid.Column="1" Grid.Row="7" 
+            	Text="{Binding Product.Price}" 
+            	Margin="0,0,150,9" />
+        <TextBox Grid.Column="1" Grid.Row="8" 
+            	Text="{Binding ProductCategory.ProductCategoryName, Mode=TwoWay}" 
+            	Margin="0,0,150,0" Height="26" VerticalAlignment="Top" />
+        <TextBox Grid.Column="1" Grid.Row="9" 
+            	Text="{Binding Shelf.Number}" 
+            	Margin="0,0,150,9" />
+        <TextBox Grid.Column="1" Grid.Row="10" 
+            	Text="{Binding Trader.Adress, Mode=TwoWay}" 
+            	Margin="0,0,150,9" />
+        <TextBox Grid.Column="1" Grid.Row="11" 
+            	Text="{Binding Trader.Name, Mode=TwoWay}" 
+            	Margin="0,0,150,9" />
+        <TextBox Grid.Column="1" Grid.Row="12" 
+            	Text="{Binding Trader.PostIndex, Mode=TwoWay, NotifyOnTargetUpdated=True}" 
+            	Margin="0,0,150,9" />
+        <TextBox Grid.Column="1" Grid.Row="13" 
+            	Text="{Binding ProductCategory.Number, Mode=TwoWay, NotifyOnTargetUpdated=True}" 
+            	Margin="0,0,150,9" />
+
+
+    </Grid>
+</UserControl>

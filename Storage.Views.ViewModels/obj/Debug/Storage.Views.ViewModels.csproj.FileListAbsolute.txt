@@ -1,0 +1,118 @@
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views.ViewModels\bin\Debug\Storage.Views.ViewModels.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views.ViewModels\bin\Debug\Storage.Views.ViewModels.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views.ViewModels\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Mvvm.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views.ViewModels\bin\Debug\Storage.DataAccess.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views.ViewModels\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Mvvm.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views.ViewModels\bin\Debug\Storage.DataAccess.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views.ViewModels\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views.ViewModels\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views.ViewModels\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views.ViewModels\obj\Debug\Storage.Views.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views.ViewModels\obj\Debug\Storage.Views.ViewModels.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.Views.ViewModels\obj\Debug\Storage.Views.ViewModels.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views.ViewModels\bin\Debug\Storage.Views.ViewModels.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views.ViewModels\bin\Debug\Storage.Views.ViewModels.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views.ViewModels\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Mvvm.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views.ViewModels\bin\Debug\Storage.DataAccess.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views.ViewModels\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Mvvm.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views.ViewModels\bin\Debug\Storage.DataAccess.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views.ViewModels\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views.ViewModels\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views.ViewModels\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views.ViewModels\obj\Debug\Storage.Views.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views.ViewModels\obj\Debug\Storage.Views.ViewModels.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.Views.ViewModels\obj\Debug\Storage.Views.ViewModels.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Storage.Views.ViewModels.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Storage.Views.ViewModels.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Mvvm.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Storage.DataAccess.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\EntityFramework.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Mvvm.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Storage.DataAccess.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\EntityFramework.xml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views.ViewModels\obj\Debug\Storage.Views.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views.ViewModels\obj\Debug\Storage.Views.ViewModels.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.Views.ViewModels\obj\Debug\Storage.Views.ViewModels.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Storage.Views.ViewModels.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Storage.Views.ViewModels.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Mvvm.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Storage.DataAccess.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\EntityFramework.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Mvvm.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Storage.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\EntityFramework.xml
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views.ViewModels\obj\Debug\Storage.Views.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views.ViewModels\obj\Debug\Storage.Views.ViewModels.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.Views.ViewModels\obj\Debug\Storage.Views.ViewModels.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views.ViewModels\obj\Debug\Storage.Views.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views.ViewModels\obj\Debug\Storage.Views.ViewModels.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views.ViewModels\obj\Debug\Storage.Views.ViewModels.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Storage.Views.ViewModels.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Storage.Views.ViewModels.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Mvvm.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Storage.BusinessLogic.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Storage.DataAccess.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Storage.Model.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\EntityFramework.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Mvvm.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Storage.BusinessLogic.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Storage.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Storage.Model.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\EntityFramework.xml
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Storage.Views.ViewModels.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Storage.Views.ViewModels.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Mvvm.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Storage.BusinessLogic.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Storage.DataAccess.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Storage.Model.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\EntityFramework.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Mita.Mvvm.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Storage.BusinessLogic.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Storage.DataAccess.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Storage.Model.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\EntityFramework.xml
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views.ViewModels\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views.ViewModels\obj\Debug\Storage.Views.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views.ViewModels\obj\Debug\Storage.Views.ViewModels.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.Views.ViewModels\obj\Debug\Storage.Views.ViewModels.pdb

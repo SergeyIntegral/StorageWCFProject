@@ -1,0 +1,32 @@
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.Core\bin\Debug\Mita.Core.dll
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.Core\bin\Debug\Mita.Core.pdb
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.Core\obj\Debug\Mita.Core.csprojResolveAssemblyReference.cache
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.Core\obj\Debug\Mita.Core.dll
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.Core\obj\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.Core\bin\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.Core\bin\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.Core\obj\Debug\Mita.Core.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.Core\obj\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.Core\obj\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.Core\bin\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.Core\bin\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.Core\obj\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.Core\obj\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Mita.Core\bin\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\Work\Склад\Mita.Core\bin\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Mita.Core\obj\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\Work\Склад\Mita.Core\obj\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.Core\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.Core\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.Core\obj\Debug\Mita.Core.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.Core\obj\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.Core\obj\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.Core\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.Core\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.Core\obj\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.Core\obj\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.Core\obj\Debug\Mita.Core.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.Core\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.Core\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.Core\obj\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.Core\obj\Debug\Mita.Core.pdb

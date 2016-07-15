@@ -1,0 +1,56 @@
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.DataAccess\obj\Debug\Mita.DataAccess.csprojResolveAssemblyReference.cache
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.DataAccess\bin\Debug\Mita.DataAccess.dll
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.DataAccess\bin\Debug\Mita.DataAccess.pdb
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.DataAccess\bin\Debug\Mita.Core.dll
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.DataAccess\bin\Debug\Mita.Core.pdb
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.DataAccess\obj\Debug\Mita.DataAccess.dll
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.DataAccess\obj\Debug\Mita.DataAccess.pdb
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.DataAccess\bin\Debug\Mita.DataAccess.dll
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.DataAccess\bin\Debug\Mita.DataAccess.pdb
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.DataAccess\bin\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.DataAccess\bin\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.DataAccess\obj\Debug\Mita.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.DataAccess\obj\Debug\Mita.DataAccess.dll
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.DataAccess\obj\Debug\Mita.DataAccess.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.DataAccess\bin\Debug\Mita.DataAccess.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.DataAccess\bin\Debug\Mita.DataAccess.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.DataAccess\bin\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.DataAccess\bin\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.DataAccess\obj\Debug\Mita.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.DataAccess\obj\Debug\Mita.DataAccess.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.DataAccess\obj\Debug\Mita.DataAccess.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Mita.DataAccess\bin\Debug\Mita.DataAccess.dll
+C:\Users\Сергей\Desktop\Work\Склад\Mita.DataAccess\bin\Debug\Mita.DataAccess.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Mita.DataAccess\bin\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\Work\Склад\Mita.DataAccess\bin\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Mita.DataAccess\obj\Debug\Mita.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Work\Склад\Mita.DataAccess\obj\Debug\Mita.DataAccess.dll
+C:\Users\Сергей\Desktop\Work\Склад\Mita.DataAccess\obj\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.DataAccess\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.DataAccess\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.DataAccess\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.DataAccess\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.DataAccess\obj\Debug\Mita.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.DataAccess\obj\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.DataAccess\obj\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.DataAccess\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.DataAccess\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.DataAccess\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.DataAccess\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.DataAccess\obj\Debug\Mita.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.DataAccess\obj\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.DataAccess\obj\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.DataAccess\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.DataAccess\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.DataAccess\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.DataAccess\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.DataAccess\obj\Debug\Mita.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.DataAccess\obj\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.DataAccess\obj\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Mita.DataAccess\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Mita.DataAccess\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Mita.DataAccess\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Mita.DataAccess\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Mita.DataAccess\obj\Debug\Mita.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Mita.DataAccess\obj\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Mita.DataAccess\obj\Debug\Mita.DataAccess.pdb

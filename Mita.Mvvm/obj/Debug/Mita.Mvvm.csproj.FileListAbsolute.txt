@@ -1,0 +1,118 @@
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.Mvvm\bin\Debug\Mita.Mvvm.dll
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.Mvvm\bin\Debug\Mita.Mvvm.pdb
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.Mvvm\obj\Debug\Mita.Mvvm.csprojResolveAssemblyReference.cache
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.Mvvm\obj\Debug\Mita.Mvvm.dll
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.Mvvm\obj\Debug\Mita.Mvvm.pdb
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.Mvvm\obj\Debug\Views\ChildViewPresenter.baml
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.Mvvm\obj\Debug\Views\ChildViewPresenter.g.cs
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.Mvvm\obj\Debug\Mita.Mvvm_MarkupCompile.cache
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.Mvvm\obj\Debug\Mita.Mvvm.g.resources
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.Mvvm\bin\Debug\Mita.Core.dll
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.Mvvm\bin\Debug\Mita.Core.pdb
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Projects\zaverden.visualstudio.com\Trying\BookStore\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Denis\Downloads\BookStore\Mita.Mvvm\bin\Debug\Mita.Mvvm.dll
+C:\Users\Denis\Downloads\BookStore\Mita.Mvvm\bin\Debug\Mita.Mvvm.pdb
+C:\Users\Denis\Downloads\BookStore\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Denis\Downloads\BookStore\Mita.Mvvm\bin\Debug\Mita.Core.dll
+C:\Users\Denis\Downloads\BookStore\Mita.Mvvm\bin\Debug\Mita.Core.pdb
+C:\Users\Denis\Downloads\BookStore\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Denis\Downloads\BookStore\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Denis\Downloads\BookStore\Mita.Mvvm\obj\Debug\Mita.Mvvm.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Downloads\BookStore\Mita.Mvvm\obj\Debug\Views\ChildViewPresenter.baml
+C:\Users\Denis\Downloads\BookStore\Mita.Mvvm\obj\Debug\Views\ChildViewPresenter.g.cs
+C:\Users\Denis\Downloads\BookStore\Mita.Mvvm\obj\Debug\Mita.Mvvm_MarkupCompile.cache
+C:\Users\Denis\Downloads\BookStore\Mita.Mvvm\obj\Debug\Mita.Mvvm.g.resources
+C:\Users\Denis\Downloads\BookStore\Mita.Mvvm\obj\Debug\Mita.Mvvm.dll
+C:\Users\Denis\Downloads\BookStore\Mita.Mvvm\obj\Debug\Mita.Mvvm.pdb
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.Mvvm\bin\Debug\Mita.Mvvm.dll
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.Mvvm\bin\Debug\Mita.Mvvm.pdb
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.Mvvm\bin\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.Mvvm\bin\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.Mvvm\obj\Debug\Mita.Mvvm.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.Mvvm\obj\Debug\Views\ChildViewPresenter.g.cs
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.Mvvm\obj\Debug\Mita.Mvvm_MarkupCompile.cache
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.Mvvm\obj\Debug\Mita.Mvvm_MarkupCompile.lref
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.Mvvm\obj\Debug\Views\ChildViewPresenter.baml
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.Mvvm\obj\Debug\Mita.Mvvm.g.resources
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.Mvvm\obj\Debug\Mita.Mvvm.dll
+C:\Users\Сергей\Desktop\букстор\pr16-BookStore\Mita.Mvvm\obj\Debug\Mita.Mvvm.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.Mvvm\bin\Debug\Mita.Mvvm.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.Mvvm\bin\Debug\Mita.Mvvm.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.Mvvm\bin\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.Mvvm\bin\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.Mvvm\obj\Debug\Views\ChildViewPresenter.g.cs
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm_MarkupCompile.cache
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm_MarkupCompile.lref
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.Mvvm\obj\Debug\Views\ChildViewPresenter.baml
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm.g.resources
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Mita.Mvvm\bin\Debug\Mita.Mvvm.dll
+C:\Users\Сергей\Desktop\Work\Склад\Mita.Mvvm\bin\Debug\Mita.Mvvm.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Сергей\Desktop\Work\Склад\Mita.Mvvm\bin\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\Work\Склад\Mita.Mvvm\bin\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Сергей\Desktop\Work\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Work\Склад\Mita.Mvvm\obj\Debug\Views\ChildViewPresenter.g.cs
+C:\Users\Сергей\Desktop\Work\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm_MarkupCompile.cache
+C:\Users\Сергей\Desktop\Work\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm_MarkupCompile.lref
+C:\Users\Сергей\Desktop\Work\Склад\Mita.Mvvm\obj\Debug\Views\ChildViewPresenter.baml
+C:\Users\Сергей\Desktop\Work\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm.g.resources
+C:\Users\Сергей\Desktop\Work\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm.dll
+C:\Users\Сергей\Desktop\Work\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.Mvvm\bin\Debug\Mita.Mvvm.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.Mvvm\bin\Debug\Mita.Mvvm.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.Mvvm\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.Mvvm\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.Mvvm\obj\Debug\Views\ChildViewPresenter.g.cs
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm_MarkupCompile.cache
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm_MarkupCompile.lref
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.Mvvm\obj\Debug\Views\ChildViewPresenter.baml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm.g.resources
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.Mvvm\bin\Debug\Mita.Mvvm.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.Mvvm\bin\Debug\Mita.Mvvm.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.Mvvm\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.Mvvm\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.Mvvm\obj\Debug\Views\ChildViewPresenter.g.cs
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm_MarkupCompile.cache
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm_MarkupCompile.lref
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.Mvvm\obj\Debug\Views\ChildViewPresenter.baml
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm.g.resources
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.Mvvm\bin\Debug\Mita.Mvvm.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.Mvvm\bin\Debug\Mita.Mvvm.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.Mvvm\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.Mvvm\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.Mvvm\obj\Debug\Views\ChildViewPresenter.g.cs
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm_MarkupCompile.cache
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm_MarkupCompile.lref
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.Mvvm\obj\Debug\Views\ChildViewPresenter.baml
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm.g.resources
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Mita.Mvvm\obj\Debug\Mita.Mvvm.pdb

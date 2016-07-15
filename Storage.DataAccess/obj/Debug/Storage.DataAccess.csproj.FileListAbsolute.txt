@@ -1,0 +1,120 @@
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.DataAccess\bin\Debug\Storage.DataAccess.dll.config
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.DataAccess\bin\Debug\Storage.DataAccess.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.DataAccess\bin\Debug\Storage.DataAccess.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.DataAccess\bin\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.DataAccess\bin\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.DataAccess\obj\Debug\Storage.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.DataAccess\obj\Debug\Storage.DataAccess.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.DataAccess\obj\Debug\Storage.DataAccess.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.DataAccess\bin\Debug\Mita.Mvvm.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.DataAccess\bin\Debug\Mita.Mvvm.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Сергей\Desktop\учеба\Склад\Storage.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Сергей\Desktop\Work\Склад\Storage.DataAccess\obj\Debug\Storage.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Work\Склад\Storage.DataAccess\obj\Debug\Storage.DataAccess.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.DataAccess\obj\Debug\Storage.DataAccess.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.DataAccess\bin\Debug\Storage.DataAccess.dll.config
+C:\Users\Сергей\Desktop\Work\Склад\Storage.DataAccess\bin\Debug\Storage.DataAccess.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.DataAccess\bin\Debug\Storage.DataAccess.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.DataAccess\bin\Debug\Mita.Core.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.DataAccess\bin\Debug\Mita.Mvvm.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Сергей\Desktop\Work\Склад\Storage.DataAccess\bin\Debug\Mita.Core.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.DataAccess\bin\Debug\Mita.Mvvm.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\Work\Склад\Storage.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сергей\Desktop\Work\Склад\Storage.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Сергей\Desktop\Work\Склад\Storage.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Storage.DataAccess.dll.config
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Storage.DataAccess.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Storage.DataAccess.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Mita.Mvvm.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Mita.Mvvm.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.DataAccess\obj\Debug\Storage.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.DataAccess\obj\Debug\Storage.DataAccess.dll
+C:\Users\bcric\Desktop\Progs\Склад_ласт\Склад\Storage.DataAccess\obj\Debug\Storage.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Storage.DataAccess.dll.config
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Storage.DataAccess.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Storage.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Mita.Mvvm.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Mita.Mvvm.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.DataAccess\obj\Debug\Storage.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.DataAccess\obj\Debug\Storage.DataAccess.dll
+C:\Users\bcric\Desktop\Склад_ласт\Склад\Storage.DataAccess\obj\Debug\Storage.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Storage.DataAccess.dll.config
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Storage.DataAccess.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Storage.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Storage.Model.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Storage.Model.pdb
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.DataAccess\obj\Debug\Storage.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.DataAccess\obj\Debug\Storage.DataAccess.dll
+C:\Users\bcric\Desktop\Склад WCF\Склад\Storage.DataAccess\obj\Debug\Storage.DataAccess.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Storage.DataAccess.dll.config
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Storage.DataAccess.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Storage.DataAccess.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Mita.Core.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Storage.Model.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Mita.Core.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Mita.DataAccess.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.DataAccess\bin\Debug\Storage.Model.pdb
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.DataAccess\obj\Debug\Storage.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.DataAccess\obj\Debug\Storage.DataAccess.dll
+C:\Users\bcric\Desktop\лабы\Склад WCF\Склад\Storage.DataAccess\obj\Debug\Storage.DataAccess.pdb
